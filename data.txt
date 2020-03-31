@@ -1,0 +1,12 @@
+Yes,Sin,125,No
+No,Mar,100,No
+No,Sin,70,No
+Yes,Mar,120,No
+No,Div,95,Yes
+No,Mar,60,No
+Yes,Div,220,No
+No,Sin,85,Yes
+No,Mar,75,No
+No,Sin,90,Yes
+Yes,Div,90,
+No,Mar,60,

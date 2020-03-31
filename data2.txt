@@ -1,0 +1,17 @@
+Yes Single 115 Yes
+Yes Single 60 No
+Yes Single 40 Yes
+Yes Married 130 Yes
+Yes Married 80 No
+Yes Divorced 130 Yes
+Yes Divorced 80 No
+No Single 75 No
+No Single 65 Yes
+No Married 125 Yes
+No Married 80 No
+No Divorced 90 Yes
+No Divorced 75 No
+Yes Single 110 
+Yes Single 5 
+Yes Married 95 
+No Divorced 63 
